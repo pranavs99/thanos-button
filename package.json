@@ -2,8 +2,11 @@
   "name": "thanos-car-js",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://pranavs99.github.io/thanos-button",
   "dependencies": {
+    "heroku": "^7.24.3",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
