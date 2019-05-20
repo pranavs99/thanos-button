@@ -1,7 +1,7 @@
-import React from "react"
-import Button from "react-bootstrap/Button"
+import React, { Component } from "react"
+import { Button } from "react-bootstrap"
 
-class ThanosButton extends React.Component {
+class ThanosButton extends Component {
     // constructor for thanosApp
     constructor(props) {
         // signifying that the class thanosApp inherits its props
